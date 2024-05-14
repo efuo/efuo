@@ -19,7 +19,7 @@ Hey, I am Efu, currently lives in Hunan.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=efuo&layout=compact&hide=javascript,html,asl,css)
-![](https://github-readme-stats.vercel.app/api/pin/?username=valor-x&repo=hexo-theme-solitude)
-![](https://github-readme-stats.vercel.app/api/pin/?username=efuo&repo=img2color)
-![](https://github-readme-stats.vercel.app/api/pin/?username=efuo&repo=GioPic)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=efuo&layout=compact&hide=javascript,html,asl,css)](https://github.com/efuo)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=valor-x&repo=hexo-theme-solitude)](https://github.com/valor-x/hexo-theme-solitude)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efuo&repo=img2color)](https://github.com/efuo/img2color)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efuo&repo=GioPic)](https://github.com/efuo/GioPic)
